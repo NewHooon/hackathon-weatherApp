@@ -19,7 +19,7 @@ class WeatherApi{
     var delegate: WeatherApiDelegate?
     // [QuaryParameter]
     private let apiRequestUrl: String = "http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getVilageFcst"
-    private let key: String = "oNeTzM0OE9YPxZa1BvljqvE4nExMVIRsriEkZ28cGBBXCdXKMMfLio9njNV8XmDf412BxP60W3826MPvhmormg%3D%3D"
+    private let key: String = "보안상 "
     private let dataType:String = "JSON"
     private let numOfRows: String = "290"
     private let pageNo: String = "1"
